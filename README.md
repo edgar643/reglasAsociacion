@@ -1,7 +1,5 @@
-# reglasAsociacion
+# Reglas de Asociacion
 Reglas de asociacion para realizar mineria de datos para obtener patrones
-
-Reglas de asociación
 
 El proceso de minería de datos trata de descubrir patrones o relaciones en un conjunto de datos dado. Una de las posibles técnicas de datamining son las reglas de asociación. Una regla de asociación es una implicación entre condiciones sobre atributos del estilo
 
