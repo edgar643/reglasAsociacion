@@ -27,7 +27,7 @@ Y opcionalmente:
 El entorno deberá permitir las siguientes funcionalidades:
 
 1.	Introducción de reglas de asociación a partir de un conjunto de datos.
-2.	Validació de un conjunto de reglas obtenidas en un conjunto de datos diferente (es decir, calcular la relevancia y fiabilidad de las reglas en el nuevo conjunto.
+2.	Validación de un conjunto de reglas obtenidas en un conjunto de datos diferente (es decir, calcular la relevancia y fiabilidad de las reglas en el nuevo conjunto.
 3.	Preprocéso de los datos de un conjunto.
 4.	Guardar y recuperar el resultado del algoritmo principal (reglas de asociación encuentros)
 
