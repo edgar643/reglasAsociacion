@@ -37,3 +37,5 @@ Funcionalidades principales a entregar a la primera entrega:
 2.	Funcionalidades automáticas definidas por el preproceso de los datos (aquellas en las que no interviene interactivamente el usuario)
 3.	Validación de un conjunto de reglas
 
+![image](https://user-images.githubusercontent.com/54609461/224390613-9d20819c-8a7c-4800-9b0e-45db4ed04792.png)
+
